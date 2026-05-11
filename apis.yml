@@ -1,0 +1,68 @@
+aid: maxio
+name: Maxio
+description: >-
+  Maxio is a SaaS billing and financial operations platform formed from the
+  merger of Chargify and SaaSOptics, providing subscription management,
+  recurring billing, revenue recognition, and SaaS metrics for B2B software
+  companies. Maxio Advanced Billing (formerly Chargify) exposes a REST API for
+  managing customers, subscriptions, products, components, invoices, and
+  events. Authentication uses HTTP Basic auth with a per-site API key as the
+  username.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Billing
+  - Subscriptions
+  - Recurring Billing
+  - Revenue Recognition
+  - SaaS Metrics
+  - Payments
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/maxio/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis:
+  - aid: maxio:advanced-billing-api
+    name: Maxio Advanced Billing API
+    description: >-
+      REST API for managing the full subscription lifecycle in Maxio Advanced
+      Billing (formerly Chargify): customers, products, components,
+      subscriptions, invoices, transactions, coupons, and webhooks.
+      Authentication uses HTTP Basic with an API key as the username and 'x'
+      as the password, scoped to a Maxio site subdomain.
+    humanURL: https://developers.maxio.com/
+    baseURL: https://{subdomain}.chargify.com
+    tags:
+      - Billing
+      - Subscriptions
+      - Invoices
+      - Customers
+      - Products
+    properties:
+      - type: Documentation
+        url: https://developers.maxio.com/
+      - type: Authentication
+        url: https://developers.maxio.com/http/getting-started/authentication
+      - type: API Reference
+        url: https://developers.maxio.com/docs/api-docs/7b6ea12f39549-chargify-api
+      - type: API Keys
+        url: https://docs.maxio.com/hc/en-us/articles/24294819360525-Advanced-Billing-API-Keys
+
+common:
+  - type: Website
+    url: https://www.maxio.com
+  - type: Documentation
+    url: https://developers.maxio.com/
+  - type: Help Center
+    url: https://docs.maxio.com/
+  - type: GitHub Organization
+    url: https://github.com/maxio-com
+  - type: Sign Up
+    url: https://www.maxio.com/get-started
+  - type: Pricing
+    url: https://www.maxio.com/pricing
+
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
