@@ -50,6 +50,8 @@ apis:
         url: https://docs.maxio.com/hc/en-us/articles/24294819360525-Advanced-Billing-API-Keys
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wearemaxio
   - type: Website
     url: https://www.maxio.com
   - type: Documentation
