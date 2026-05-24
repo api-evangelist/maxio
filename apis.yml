@@ -65,6 +65,8 @@ common:
   - type: Pricing
     url: https://www.maxio.com/pricing
 
+  - type: LLMsTxt
+    url: https://maxio.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
