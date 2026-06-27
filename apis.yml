@@ -60,12 +60,12 @@ common:
     url: https://docs.maxio.com/
   - type: GitHubOrganization
     url: https://github.com/maxio-com
-  - type: SignUp
+  - type: Signup
     url: https://www.maxio.com/get-started
   - type: Pricing
     url: https://www.maxio.com/pricing
 
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://maxio.com/llms.txt
 maintainers:
   - FN: Kin Lane
