@@ -50,6 +50,10 @@ apis:
         url: https://docs.maxio.com/hc/en-us/articles/24294819360525-Advanced-Billing-API-Keys
 
 common:
+  - type: TrustCenter
+    url: security/maxio-trust-center.yml
+  - type: DomainSecurity
+    url: security/maxio-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/wearemaxio
   - type: Website
@@ -67,6 +71,8 @@ common:
 
   - type: LlmsText
     url: https://maxio.com/llms.txt
+  - url: https://www.maxio.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
