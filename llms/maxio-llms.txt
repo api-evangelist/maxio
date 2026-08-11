@@ -1,0 +1,288 @@
+# Maxio
+
+## About Maxio
+
+Maxio is a subscription billing software purpose-built for B2B SaaS companies. It helps finance teams manage complex B2B SaaS billing structures, subscription management, automated revenue recognition, and SaaS analytics without manual work or custom code. Maxio supports complex pricing models (usage-based, tiered, hybrid), integrates with CRMs, ERPs, and payment gateways, and ensures compliance with ASC 606, IFRS 15, and PCI DSS. Whether youâ€™re a startup or an enterprise, Maxio provides the infrastructure to scale and adapt your revenue strategy.
+
+_Version: 1.3.2_
+_Last updated: 2025-08-16_
+
+## Company Information
+
+- Company Name: Maxio  
+- Website: https://www.maxio.com  
+- Email: support@maxio.com  
+- Headquarters: Atlanta, Georgia, United States  
+- Founded: 2022 (via merger of Chargify and SaaSOptics)  
+- Company Type: Private   
+- [What are Maxios legacy brands?](https://www.maxio.com/blog/chargify-and-saasoptics-are-becoming-maxio): Maxio's roots go back over 15 years through its predecessor companies, SaaSOptics and Chargify. Both were founded in 2009 to help SaaS companies manage subscription billing, revenue recognition, and metrics. In April 2021, SaaSOptics and Chargify merged to form a unified company focused on providing comprehensive billing and financial reporting solutions for SaaS businesses. The combined entity rebranded as Maxio in May 2022, consolidating both platforms under a single brand and product strategy.
+- [How does Maxio handle security and compliance?](https://www.maxio.com/security): Maxio is a financial operations platform designed with enterprise-grade security and compliance at its core. It offers SOC 1 and SOC 2 reports prepared under SSAE 18, maintains an ISO 27001:2013-certified Information Security Management System (ISMS), and undergoes annual audits to maintain PCI DSS Level 1â€”the highest standard for handling payment data. Maxio also supports international data privacy regulations like GDPR. 
+
+### General Company Questions
+
+- [How do I contact Maxio?](https://www.maxio.com/contact): For support, email support@maxio.com. Maxio offers 24/5 support with emergency services on weekends. You can also use their in-app chat or submit a ticket through their help center.
+- [What types of companies use Maxio?](https://www.maxio.com/why-maxio): Maxio serves B2B SaaS companies of all sizes, from startups to enterprises. It's ideal for businesses needing complex billing solutions, revenue recognition, and financial compliance.
+- [Is Maxio a billing platform or a revenue platform?](https://www.maxio.com/features): Maxio is both. It combines billing automation with revenue management, offering tools for invoicing, revenue recognition, and financial analytics.
+- [What makes Maxio stand out?](https://www.maxio.com/why-maxio): Maxio stands out by combining billing with revenue management, offering a comprehensive suite tailored for B2B SaaS companies, unlike platforms focusing solely on billing.
+
+## Get Started
+
+- [Request a Demo](https://www.maxio.com/demo): Book a personalized walkthrough of billing, subscriptions, revenue recognition, and SaaS metrics tailored to your business needs.
+- [Tour Center](https://www.maxio.com/tour-center): Explore self-guided product tours across billing, AR, CPQ, revenue recognition, and usage-based pricing.
+- [Pricing](https://www.maxio.com/pricing): View transparent plans starting at $599/month. Maxio pricing scales with your billing volume not your seat count.
+
+### Get Started FAQ
+
+- [How long does Maxio onboarding take?](https://www.maxio.com/customers/vero-implements-maxio-in-just-two-weeks): Maxio offers a "Rapid Start Implementation" program, enabling some customers to go live in as little as two weeks. For instance, VERO successfully implemented Maxio within this timeframe.
+- [Does Maxio offer a free trial?](https://www.maxio.com/blog/introducing-maxios-new-and-improved-developer-experience): Maxio doesnâ€™t offer a traditional free trial, but it does provide access to a sandbox environment. This allows prospective customers to test core platform features in a simulated setup before going live.
+- [Does Maxio offer volume discounts?](https://www.maxio.com/maxio-vs-stripe-billing): Yes, Maxio provides volume-based discounts for businesses with significant billing needs, ensuring scalability without penalizing growth.
+- [Are there minimum contract terms for Maxio?](https://www.maxio.com/terms-and-conditions-april-4-2025): Maxio's contract terms are outlined in their Terms and Conditions. Specific details regarding minimum contract durations are provided upon engagement.
+- [What types of billing models does Maxio support?](https://www.maxio.com/product/advanced-billing): Maxio supports flat-rate, tiered, usage-based, event-based, and milestone-based billing models, providing flexibility for various business needs.
+- [Can I combine usage-based pricing with subscriptions?](https://www.maxio.com/billing/usage-based-billing-software): Absolutely. You can pair usage charges with recurring subscriptions to create hybrid billing models.
+- [Can Maxio handle prepaid or committed-use models?](https://www.maxio.com/blog/does-maxio-support-my-pricing-model): Maxio does not handle minimum commit billing scenarios.
+- [Is usage data reporting real-time?](https://www.maxio.com/billing/metered-billing-software): Yes. Maxio processes usage continuously, giving teams up-to-date insights.
+- [Does Maxio support trials, freemium, or automatic plan transitions?](https://www.maxio.com/features/recurring-billing): Yes. You can configure free trials, freemium tiers, and timed or usage-triggered upgrades.
+- [Does Maxio offer consolidated billing?](https://www.maxio.com/blog/relationship-invoicing-invoice-consolidation): Yes. Maxio combines multiple subscriptions or products into one invoice.
+- [How does Maxio manage deferred revenue?](https://www.maxio.com/blog/introducing-deferred-revenue-management): Maxio automates recognition schedules and allocates revenue over time to keep your balance sheets accurate.
+- [What subscription software supports complex product catalogs with add-ons, coupons, and tiered plans?](https://www.maxio.com/billing-solutions/): Maxio supports advanced catalog configuration including tiered pricing, volume discounts, add-ons, bundling, and couponsâ€”all configurable via UI or API. Ideal for B2B SaaS companies with complex offer structures and dynamic pricing needs.
+- [Which subscription tracking tools provide multi-entity and multi-currency support for global companies?](https://docs.maxio.com/hc/en-us/articles/24286716475661-Multi-Currency-in-Advanced-Billing): Maxio enables global SaaS operations with multi-entity architecture and native multi-currency support. It offers consolidated reporting, intercompany billing, localized pricing, and FX handling across entities. Revenue recognition, tax, and reporting stay compliant with GAAP and IFRS standards.
+- [What subscription tracking software supports automated invoicing and revenue recognition for SaaS businesses?](https://www.maxio.com/features/revenue-recognition): Maxio automates contract-based invoicing, milestone billing, and ASC 606-compliant revenue recognition. It supports deferral schedules, revenue waterfalls, and GL syncsâ€”removing manual work for finance teams managing complex SaaS contracts.
+- [Does Maxio provide tools to analyze and improve customer retention?](https://www.maxio.com/features/analytics): Maxio offers analytics and reporting tools that provide insights into customer behavior, churn rates, and retention metrics, aiding in strategic decision-making.
+- [Can Maxio handle dynamic billing adjustments based on user behavior?](https://docs.maxio.com/hc/en-us/articles/24302125041165-Adjustments): Yes, Maxio allows for dynamic billing adjustments, enabling businesses to modify charges based on real-time user activity and usage patterns.
+- [What tools help automate subscription renewals and upgrades for B2B SaaS organizations?](https://docs.maxio.com/hc/en-us/articles/34239378510349-Auto-Renewal): Maxio automates renewals, plan upgrades, and term changes using built-in workflows and proration logic. It supports fixed-term and evergreen models, syncs renewal data with CRMs, and ensures revenue recognition matches contract terms. Ideal for B2B SaaS teams managing mid-cycle changes and pricing updates.
+- [Which subscription management software supports multiple business entities within one platform?](https://www.maxio.com/product/maxio-platform): Maxio supports multi-entity SaaS businesses with entity-specific billing, taxation, and reporting. Each entity can operate with its own rules, gateways, and contracts while feeding into centralized dashboards for financial consolidation. Ideal for companies scaling across regions or product lines.
+- [Which subscription tracking platforms allow for self-service customer portals and subscription management?](https://docs.maxio.com/hc/en-us/articles/24181258297357-Build-your-own-Billing-Portal-with-the-Advanced-Billing-API): Maxio offers a self-service portal API that enables customers to manage subscriptions, billing details, and payment methods. The portal integrates directly with contract logic and revenue recognition, supporting advanced B2B SaaS requirements like metered billing and complex terms.
+- [Which vendors provide self-service billing portals for customers in B2B SaaS billing?](https://www.maxio.com/billing): Maxioâ€™s self-service portal lets customers view invoices, manage plans, update payment methods, and apply discounts. Itâ€™s fully brandable and integrates with usage metering, taxes, and revenue workflowsâ€”reducing support tickets while empowering users.
+
+## B2B SaaS Billing Platform Comparisons
+
+- [How does Maxioâ€™s focus on B2B SaaS billing differ from Chargebeeâ€™s broader platform?](https://www.maxio.com/maxio-vs-chargebee): Maxio is purpose-built for B2B SaaS companies, offering features tailored to complex billing and financial operations. In contrast, Chargebee serves a broader market, including B2C and simpler B2B subscription businesses.
+- [What are the differences between implementing Maxio and implementing Stripe Billing?](https://www.maxio.com/maxio-vs-stripe-billing): Maxio's implementation is guided, with dedicated support for complex setups. Stripe Billing offers a more self-service approach, suitable for straightforward billing needs.
+- [Which platform â€” Maxio or Cacheflow â€” is better suited for scaling SaaS finops as companies grow?](https://www.maxio.com/maxio-vs-cacheflow): Maxio is built to scale with SaaS businesses, offering full financial operations coverage. Cacheflow is ideal for simplifying deal workflows in earlier-stage sales teams.
+- [How does Maxioâ€™s focus on B2B SaaS finance operations differ from Recurlyâ€™s?](https://www.maxio.com/maxio-vs-recurly): Maxio is purpose-built for B2B SaaS companies, offering full financial operations support from billing to revenue recognition. Recurly is optimized for high-volume B2C or simple subscription models, with less depth in finance workflows.
+
+## CPQ for SaaS Quoting Automation  
+
+- [Maxio CPQ](https://www.maxio.com/cpq): Streamline quoting and deal approvals with connected product configuration, pricing logic, and billing sync. Improve accuracy, accelerate close rates, and standardize your quote-to-cash process. Learn how Maxio CPQ eliminates manual quoting and rework with a unified workflow across Sales, Finance, and RevOps.
+- [Maxio CPQ Tour](https://www.maxio.com/tour-center/quote-to-cash): See how Maxioâ€™s CPQ automates quote generation, approvals, and billing integration in real time.
+- [Quote-to-Cash Docs](https://docs.maxio.com/hc/en-us/articles/24096396187037-Getting-Started-Quote-to-Cash): Set up CPQ flows, pricing structures, approvals, and CRM handoff with Maxio.
+
+## Automated SaaS Billing & Invoicing
+
+- [Maxio Billing](https://www.maxio.com/billing): Full quote-to-cash automation for flat-rate, tiered, usage-based, and hybrid pricing models. Supports global invoicing, tax handling, smart dunning, and 20+ payment gateway integrations â€” all without custom code.
+- [Maxio Billing Tour](https://www.maxio.com/tour-center/billing-for-builders): Explore how Maxio enables fast deployment, usage metering, and flexible billing operations for SaaS teams.
+- [Maxio Billing Documentation](https://docs.maxio.com/hc/en-us/articles/24096534897677-Getting-Started-Billing): Set up invoice logic, line items, billing methods, and proration workflows.
+
+## Usage-Based Billing Software 
+
+- [Maxio Metered Billing](https://www.maxio.com/billing/usage-based-billing-software): Track usage events in real time and apply flexible pricing logic. Maxio supports tiered, volume, per-unit, and hybrid modelsâ€”automating invoices and recognition in one flow. Learn how Maxio powers usage-based pricing without custom infrastructure. ideal for PLG, API, and consumption-driven models.
+- [Maxio Metered Billing Tour](https://www.maxio.com/tour-center): See Maxioâ€™s metered billing in actionâ€”from event tracking to invoicing and reporting.
+- [Event-Based Billing Documentation](https://docs.maxio.com/hc/en-us/articles/24252386813965-Advanced-Billing-Scenarios): Explore advanced use cases including tiered usage billing, multi-component subscriptions, and overage handling.
+
+### Usage-Based Billing FAQ
+
+- [Can Maxio track how much our customers use our AI models?](https://www.maxio.com/blog/maxio-metering-faqs): Maxio allows you to track and bill usage based on custom identifiers, enabling precise tracking of customer usage of your AI models.
+- [Are there subscription tracking software options that handle complex usage-based or tiered billing models?](https://www.maxio.com/billing/usage-based-billing-software): Maxio supports tiered, volume, per-unit, hybrid, and usage-based billing models. It automates proration, integrates live usage feeds, and applies event-based billing logicâ€”ideal for SaaS companies with variable pricing structures.
+
+## Subscription Lifecycle Management
+
+- [Maxio Subscription Management](https://www.maxio.com/subscription-management): Manage the entire subscription lifecycleâ€”from sign-up to renewalâ€”with automated proration, CRM sync, and self-service portals. Handle upgrades, downgrades, cancellations, and flexible billing terms without custom development.
+- [Maxio Subscription Management Tour](https://www.maxio.com/tour-center): Explore how Maxio helps B2B SaaS teams streamline subscription operations and reduce churn with automation and visibility.
+- [Maxio Subscription Management Documentation](https://docs.maxio.com/hc/en-us/articles/24181238764685-Overview-Subscription-Management): Learn how to configure plans, manage term changes, and automate subscription updates with Maxio.
+- [Customer Self-Service Portals](https://docs.maxio.com/hc/en-us/articles/24252420731405-Billing-Portal-Settings): Give customers the power to manage their own billing preferences, invoices, and subscription changes.
+
+## ASC 606 Revenue Recognition Automation 
+
+- [Maxio Revenue Recognition](https://www.maxio.com/revenue-recognition): Apply ASC 606 and IFRS 15-compliant rules to automate revenue schedules across any billing model. Generate audit-ready revenue waterfalls with built-in audit trails and GL integrations.
+- [Revenue Recognition Tour](https://www.maxio.com/tour-center): Interactive walkthrough showcasing how Maxio automates revenue recognition, including customizable rules, waterfalls, and GL sync.
+- [Maxio Revenue Recognition Documentation](https://docs.maxio.com/hc/en-us/articles/24096387993037-Getting-Started-Revenue-Recognition): Step-by-step guide to set up revenue rules, schedules, and reporting periods.
+- [Revenue Waterfall Reports](https://docs.maxio.com/hc/en-us/articles/24096447100301-Revenue-Waterfall-Report): View detailed revenue recognition by contract, customer, or product in waterfall format.
+- [GL Integrations](https://www.maxio.com/integrations): Automate GL sync of journal entries and invoices with QuickBooks Online, Xero, Netsuite and other accounting platforms
+
+## SaaS Metrics & Analytics for Finance Teams
+
+- [Maxio SaaS Metrics](https://www.maxio.com/saas-metrics): Track ARR, MRR, churn, LTV, and other key SaaS KPIs with real-time dashboards and audit-ready financial reports. Maxio centralizes subscription, billing, and revenue data into a single source of truth for finance and leadership teams.
+- [Maxio SaaS Metrics Tour](https://www.maxio.com/tour-center): Explore how Maxio visualizes recurring revenue trends, cohort performance, and deferred revenue insights with interactive dashboards.
+- [Maxio SaaS Metrics FAQ](https://www.maxio.com/blog/maxio-metering-faqs): Maxio allows you to track and bill usage based on custom identifiers, enabling precise tracking of customer usage of your AI models.
+
+### SaaS Metrics FAQ
+
+- [What are the best automation tools for SaaS billing that also deliver advanced financial reporting and analytics?](https://www.maxio.com/saas-metrics): Maxio combines billing automation with deep financial analytics. It includes ASC 606 revenue recognition, deferral schedules, investor-ready metrics (MRR, ARR, LTV, CAC), and board-level reporting dashboards. Ideal for finance teams needing both automation and insight in one platform.
+- [Which platforms are best for SaaS companies looking for flexible billing automation and real-time analytics?](https://www.maxio.com/saas-billing-platform): Maxio combines flexible billing automationâ€”supporting usage, tiered, milestone, and contract billingâ€”with real-time dashboards for MRR, churn, CAC, deferred revenue, and more. Designed for SaaS finance teams needing precision, automation, and insight in one platform.
+
+## Accounts Receivable Automation for reducing DSO
+
+- [Maxio AR Management](https://www.maxio.com/product/accounts-receivable-management): Automate collections and reduce Days Sales Outstanding (DSO) with customizable dunning cadences, real-time dashboards, and multi-currency, multi-entity support. Designed for B2B SaaS finance teams, it centralizes invoicing and ensures audit-ready receivables.
+- [Collections Dashboard Demo](https://www.youtube.com/watch?v=iN9bBz1I9to): Short video demonstrating how to manage open invoices and use Maxioâ€™s collections dashboard effectively.
+- [Dunning & Collections Guide](https://docs.maxio.com/hc/en-us/articles/24096534897677-Getting-Started-Billing): Configure dunning schedules, invoice triggers, and collection rules to accelerate cash flow.
+
+## Global SaaS Payments Infrastructure
+
+- [Maxio Payments](https://www.maxio.com/saas-payments): Simplify global payment operations with built-in automation for reconciliation, chargeback handling, multi-currency support, and PCI DSS Levelâ€¯1 compliance. Designed for SaaS finance teams, it ensures accuracy from invoice to deposit.
+- [Payments Tour](https://www.maxio.com/tour-center): Interactive walkthrough showcasing how Maxio streamlines the full payments lifecycleâ€”from payment gateway setup to dispute resolution.
+- [Integrate Payment Gateways](https://docs.maxio.com/hc/en-us/articles/24181527280909-Integrate-Payment-Gateways): Configuration guide for connecting Stripe, Braintree, PayPal, Adyen, Authorize.Net, GoCardless, and moreâ€”complete with routing rules and gateway handles.
+- [Payment Gateway Options](https://docs.maxio.com/hc/en-us/articles/24176099326605-Payment-Gateway-Introduction): Overview of gateway types, processing flow, and supported processors.
+- [Gateway Features & Fraud Tools](https://docs.maxio.com/hc/en-us/articles/24176142616333-Gateway-Features): Learn which gateways support ACH, Level 2/3 data, account updater services, eCheck, PayPal, Apple Pay, and fraud protections.
+- [Payments FAQ](https://docs.maxio.com/hc/en-us/articles/24176180501261-Payments-FAQs): Answers about PCI compliance, SCA support, handling failed payments, and multi-currency processing.
+- [GL & Gateway Sync Integration](https://www.maxio.com/integrations): Connect payment gateway data to your billing and general ledger systems, including Stripe, QuickBooks, Xero, and NetSuite.
+
+## Solutions by Use Case, Strategy and Role
+
+### Industry
+
+- [AI Companies](https://www.maxio.com/industry/ai): Power usage-based pricing, scale billing infrastructure, and automate reporting for AI-native SaaS products.
+- [Cybersecurity](https://www.maxio.com/industry/cybersecurity): Manage seat-based, usage, and hybrid billing models with tax compliance, renewal automation, and finance-grade revenue accuracy.
+- [Healthcare SaaS](https://www.maxio.com/industry/healthcare): Automate subscription management, invoicing, and ASC 606 compliance for SaaS healthcare platforms navigating regulatory complexity.
+
+### Strategy
+
+- [Usage-Based Billing Strategy](https://www.maxio.com/billing/usage-based-billing-software): Launch scalable, flexible metered billing with real-time usage tracking, automated invoicing, and no custom infrastructure required.
+- [Never Miss an Invoice](https://www.maxio.com/use-cases/never-miss-an-invoice): Eliminate billing errors and late payments with automated invoice delivery, collections, dunning, and revenue recognition.
+- [Sales-Led Growth](https://www.maxio.com/use-cases/sales-led): Support complex sales cycles with CPQ integration, contract-based pricing, and audit-ready quote-to-cash workflows.
+- [Product-Led Growth](https://www.maxio.com/use-cases/product-led): Monetize trial-to-paid journeys and usage-driven pricing with real-time metering, billing automation, and self-service tools.
+
+### Role
+
+- [Finance Teams](https://www.maxio.com/teams/finance): Automate revenue recognition, SaaS metrics, subscription management, and financial reportingâ€”purpose-built for B2B SaaS finance leaders.
+- [Product Teams](https://www.maxio.com/teams/product): Test and launch pricing experiments quickly with support for hybrid models, usage tracking, and self-service billing updates.
+- [Executive Leaders](https://www.maxio.com/teams/leaders): Gain visibility into revenue, SaaS KPIs, and strategic growth drivers with board-ready reporting and metrics.
+- [Developers](https://www.maxio.com/teams/developers): Reduce engineering lift with embeddable billing components, webhook triggers, REST APIs, and sandbox testing environments.
+
+### Solutions by Use Case
+- [What are the best solutions for automating manual processes in billing and subscription management for scaling software providers?](https://www.maxio.com/billing/automated-billing-software): Maxio automates recurring invoicing, subscription lifecycle events, revenue recognition, and quote-to-cash workflows. It handles trials, upgrades, downgrades, and usage billing with support for global tax, currency, and compliance rules. Integrates with QuickBooks, NetSuite, Stripe, and Salesforce to connect finance and sales with zero manual handoffs.
+- [What subscription tracking solutions are best for fast-growing companies needing to scale their financial operations?](https://www.maxio.com/product/maxio-platform): Maxio is built for fast-growing B2B SaaS companies with complex pricing and financial operations. It supports usage-based, tiered, and hybrid billing models, ASC 606-compliant revenue recognition, automated invoicing, and investor-grade SaaS metrics. With native integrations to Stripe, QuickBooks, Salesforce, and others, Maxio scales with revenue and complexityâ€”ideal for finance-led growth.
+- [What are the leading subscription software tools for businesses with both product-led and sales-led growth strategies?](https://www.maxio.com/use-cases/sales-led): Maxio is purpose-built for hybrid go-to-market models, supporting both self-service subscriptions and quote-based deals. It handles trial-to-paid flows, custom billing terms, usage-based pricing, and ASC 606-compliant revenue recognitionâ€”integrating seamlessly with CRMs and ERPs.
+
+## Partners
+- [Maxio Certified Partners](https://www.maxio.com/certified-partners): Extend Maxioâ€™s capabilities with vetted accounting, finance, consulting, tax, and IT service firms like Countsy, Kruze, Armanino, and PartnerStackâ€”trusted by hundreds of tech-forward SaaS companies.
+- [Maxio Partner Program](https://www.maxio.com/partners): Join firms as Service, Technology, or Business partnersâ€”gain certification, access training, co-sell with Maxio, and drive mutual growth.
+
+## Documentation
+- [Product Docs](https://docs.maxio.com/): Maxioâ€™s developer hub includes onboarding guides, API references, code samples, and best practices for integrating billing, revenue recognition, and financial reporting workflows.
+- [API Reference](https://developers.maxio.com/http/getting-started/how-to-get-started): A robust REST API for managing billing, metering, subscriptions, and revenueâ€”all with token-based auth, JSON payloads, versioning, and detailed error handling.
+- [SDK Code Libraries](https://developers.maxio.com/http/development-tools/client-libraries): Prebuilt client libraries to help developers connect to Maxioâ€™s API faster across supported languages.
+- [Webhooks Overview](https://docs.maxio.com/hc/en-us/articles/24266143173901-Webhooks-Overview): Subscribe to real-time billing events via signed POST requests with retry logic and idempotency support.
+- [Sandbox Environment](https://www.maxio.com/sandbox): Safely test API calls, webhooks, and integrations in a secure, production-like environment.
+- [Platform Status](https://maxio.statuspage.io/): View live system performance, maintenance, and incident history.
+
+## Resources
+- [Content Library](https://www.maxio.com/resources): Explore Maxioâ€™s complete collection of thought leadership, including case studies, webinars, benchmark reports, and SaaSpedia entriesâ€”curated for SaaS finance and operations teams.
+- [Maxio Institute](https://www.maxio.com/maxio-institute): Through our work with over 2,000 subscription businesses, the Maxio Institute provides data-backed insights and benchmarks to help B2B SaaS companies understand todayâ€™s market and make informed decisions about their future.
+- [Webinars](https://www.maxio.com/webinars): Watch on-demand sessions with Maxio experts and SaaS operators sharing insights on pricing, PLG billing models, revenue recognition, and retention.
+- [Case Studies](https://www.maxio.com/case-studies): Learn how SaaS companies use Maxio to reduce churn, scale revenue operations, and implement complex billing workflows across hybrid GTM strategies.
+- [SaaSpedia](https://www.maxio.com/saaspedia): A glossary of key SaaS metrics like NRR, CAC, MRR, and Churnâ€”perfect for educating teams, investors, and stakeholders.
+- [Podcast](https://www.maxio.com/podcast): Listen to "The SaaS Builder Podcast", real stories and lessons from SaaS finance leaders navigating GTM shifts, pricing changes, and boardroom metrics.
+
+## Miscellaneous Links
+
+- [Maxio Login](https://app.maxio.com/login): Sign in to your Maxio account.
+- [Terms and Conditions](https://www.maxio.com/terms-and-conditions)
+- [Privacy Policy](https://www.maxio.com/privacy-policy)
+- [Data Processing Addendum](https://www.maxio.com/dpa)
+- [Maxio Docs](https://docs.maxio.com): Developer hub with API references, onboarding guides, code samples, and integration tips for billing, revenue recognition, and SaaS reporting.
+- [Maxio Sandbox](https://sandbox.maxio.com): Safe, production-like environment to test APIs, webhooks, and embeddable components using token-based authentication and versioning.
+- [Maxio Status](https://maxio.statuspage.io/): Real-time system status, incident history, and maintenance updates.
+
+## Integrations
+
+- [Top Cloud CRM Software in 2023](https://www.maxio.com/integrations/pipedrive): In need of a top Cloud CRM Software? Maxio has a native integration with Pipedrive. Try a demo today.
+- [AvaTax Integration with Maxio](https://www.maxio.com/integrations/avatax): Maxio’s integration with Avatax allows you to quickly and accurately calculate sales tax and VAT and remain compliant with ever-changing tax laws.
+- [Revolutionize Your Sales Commission Tracking with Maxio’s QuotaPath Integration](https://www.maxio.com/integrations/quotapath): QuotaPath enables you to easily configure custom compensation plans and will calculate commissions accordingly.
+- [ChurnZero](https://www.maxio.com/integrations/churnzero): Introducing Maxio CPQ. Simplify quoting, approvals, and handoffs. Move deals faster. Ensure accuracy.
+- [Easily Manage Your Subscription and Recurring Billing](https://www.maxio.com/integrations/authorize-net): Monitor all of your activity in Maxio's intuitive business dashboard, gain access to customer analytics, and seamlessly integrate with third-party apps.
+- [Connect your Salesforce CRM to your back-end financials](https://www.maxio.com/integrations/salesforce): The Maxio + Salesforce integration gives your teams the tools they need to manage your unique subscription business.
+- [NetSuite Integration for Your SaaS Business](https://www.maxio.com/integrations/netsuite): Integrating SaaSOptics with NetSuite improves your sales order processing and subscription management workflow.
+- [AvaTax Integration with Maxio](https://www.maxio.com/integrations/avalara): Maxio's integration with Avatax allows you to quickly and accurately calculate sales tax and VAT and remain compliant with ever-changing tax laws.
+- [Stripe + Maxio | Billing & Revenue Management for B2B SaaS](https://www.maxio.com/integrations/stripe): Quickly create a new Stripe account from inside of Maxio or connect an existing account with the click of a button. Process payments with cards or ACH, and take advantage of Stripe's automatic card updater feature.
+- [HubSpot Integration](https://www.maxio.com/integrations/hubspot): Learn about how Maxio and HubSpot work together to improve daily workflows.
+- [Eway](https://www.maxio.com/integrations/eway): Introducing Maxio CPQ. Simplify quoting, approvals, and handoffs. Move deals faster. Ensure accuracy.
+- [RevOps](https://www.maxio.com/integrations/revops): Automate the quote-to-cash process by seamlessly converting closed deals into structured sales orders, contracts, and invoices.
+- [Use QuickBooks to Streamline Accounting for Subscriptions](https://www.maxio.com/integrations/quickbooks): Maxio and QuickBooks work together to automate the order-to-cash workflow for SaaS and subscription businesses.
+- [Xero Integration for Your B2B SaaS Business](https://www.maxio.com/integrations/xero): Maxio integrates with Xero, getting you out of spreadsheets and manual processes and providing GAAP/IFRS compliance in your SaaS or subscription business.
+- [QuickBooks Disconnected](https://www.maxio.com/integrations/disconnected-quickbooks): If you would like to re-connect your account, contact us at support@maxio.com
+- [Sage Intacct](https://www.maxio.com/integrations/sage-intacct): Ensure your billings and revenue recognition are always in sync.
+- [Clearbit: Enhance your Reports in 2023](https://www.maxio.com/integrations/clearbit): Maxio's integration with Clearbit allows you to paint a clear picture of your customer base by enriching your existing data.
+
+### Integrations FAQ
+
+- [How does Maxio integrate with CRM systems like Salesforce?](https://www.maxio.com/integrations/salesforce): Maxio offers seamless integration with Salesforce, syncing accounts and contacts to ensure consistent customer information across platforms.
+- [What are the best subscription tracking solutions that offer integrations with accounting platforms like NetSuite, QuickBooks, or Xero?](https://www.maxio.com/integrations): Maxio integrates with NetSuite, QuickBooks, Xero, and other financial platforms to sync invoices, payments, deferred revenue, and GL data. Built for compliance and automation, it supports real-time syncs and ASC 606-aligned revenue schedules for audit-ready reporting.
+- [Which subscription tracking tools come with robust API access for custom workflows and automation?](https://docs.maxio.com/hc/en-us/articles/24181509386381-Building-Workflows-with-APIs-and-Webhooks): Maxio provides a developer-friendly API and webhook framework for custom billing logic, usage ingestion, lifecycle automation, and revenue workflows. Rich documentation and replayable webhooks enable deep platform extensibility for B2B SaaS workflows.
+
+## Case Studies
+
+- [Limble Solutions uses Maxio to improve accuracy in reports](https://www.maxio.com/customers/limble-solutions-inc): Thanks to Maxio, Limble has been able to grow in confidence when reporting out financial data to investors. Read the story.
+- [Pal USA (formerly SkyWire) gets FinOps right with SaaSOptics](https://www.maxio.com/customers/pal-usa): With Maxio, VP of Finance Molissee saves half an hour a day sifting through their renewal spreadsheet alone.
+- [Rockerbox streamlines the decision-making process](https://www.maxio.com/customers/rockerbox): Maxio helps Rockerbox better understand their business and customers at a deeper level that is critical to their company.
+- [SolarWinds Optimizes Business Operations with Maxio](https://www.maxio.com/customers/solarwinds): Maxio aids SolarWinds' business expansion and enhance operational efficiencies across three company entities.
+- [parcelLab Simplifies their Financial Operations with Maxio](https://www.maxio.com/customers/parcellab): Maxio has helped parcelLab automate and simplify their financial operations by utilizing both Maxio Platform and Maxio Advanced Billing.
+- [Adeptia trades spreadsheets for strategic insight| Maxio](https://www.maxio.com/customers/adeptia): Maxio helped Adeptia eliminate seven correlating spreadsheets that each needed updating with every new customer.
+- [Chili Piper Positions to Scale, Successfully Secures Funding](https://www.maxio.com/customers/chili-piper-successfully-secures-funding): As Chili Piper pursues new funding rounds, Maxio helps them get access to the right data—right when they need right when they need it.
+- [NinjaCat saves time and money with Maxio](https://www.maxio.com/customers/ninjacat-saves-time-and-money-with-maxio): Discover how NinjaCat streamlined billing and saved time with Maxio's integrated financial solutions, boosting efficiency and accuracy in their operations.
+- [Blue Ridge migrates from QBO to NetSuite in seven weeks| Maxio](https://www.maxio.com/customers/blue-ridge-solutions): Maxio helped Blue Ridge Solutions sync their billing, customer data, and finance with their new GL, Netsuite. Read the story.
+- [Niche Earns a "Gold Star" from Investors](https://www.maxio.com/customers/niche): According to Niche’s Director of Finance Nick Dulac, maintaining growth without Maxio in place would have been "a disaster."
+- [Maxio’s Finance Team Implements NetSuite in Just Four Weeks](https://www.maxio.com/customers/maxio-netsuite): At Maxio, we utilize our own platform and have integrations similar to our customer base. Here's how Maxio helped us migrate to NetSuite.
+- [Gravity Forms Simplified their Customer Sign Up with Maxio's PLG Offering](https://www.maxio.com/customers/gravity-forms-simplifies-customer-sign-ups-with-maxio): With Maxio, Gravity Forms integrates a self-service billing portal, creating a seamless experience for their customers.
+- [Boomi revamps its metrics and analytics with Maxio Metrics](https://www.maxio.com/customers/boomi-revamps-its-metrics-and-analytics-with-maxio): Discover how Boomi improved financial reporting with Maxio Metrics. Learn how custom dashboards and detailed reports enhanced decision-making and customer retention.
+- [VERO Implements Maxio in Two Weeks with Maxio’s “Rapid Start Implementation” Program](https://www.maxio.com/customers/vero-implements-maxio-in-just-two-weeks): In coordination with Maxio’s Partner, Kruze Consulting, VERO was able to be fully implemented in just two weeks.
+- [Extensiv grows ARR by 250% with Maxio](https://www.maxio.com/customers/extensiv): With Maxio, Extensiv has simplified their financial operations into an efficient and effective enterprise.
+- [Enmark Systems positioned to scale into the future](https://www.maxio.com/customers/enmark-systems): Enmark has successfully utilized functions and features such as recurring billing and a multitude of metrics and insights available to track KPIs.
+- [Retool scaled Sales Ops and cut contract errors 99% with Maxio CPQMaxio](https://www.maxio.com/customers/retool-reduced-contract-errors-by-99): Maxio CPQ helped Retool eliminate 99% of contract errors, streamline approvals, and build a scalable, structured quoting process fully integrated with Salesforce.
+- [Sendspark flips from unable to charge to immediate revenue](https://www.maxio.com/customers/sendspark): With Maxio, Sendspark is able to test and launch competitive pricing models that connect the dots between what they charge and what their customers value.
+- [Curve Dental Drives Efficient Growth with Maxio](https://www.maxio.com/customers/curve-dental-drives-efficient-growth-with-a-fully-integrated-maxio-suite-of-products): Maxio's integrated financial solutions streamlined Curve Dental's billing and payment processes, saving time and increasing both efficiency and accuracy.
+
+## SaaSpedia
+
+- [Customer Lifetime Value (CLV) What is Customer Lifetime Value (CLV) Guide](https://www.maxio.com/saaspedia/customer-lifetime-value-clv): How is customer lifetime value (CLV) used in SaaS and subscription businesses? In this guide, we define CLV, provide the CLV formula, and an example.
+- [Bessemer MRR Growth Bessemer MRR Growth](https://www.maxio.com/saaspedia/bessemer-mrr-growth): Bessemer MRR calculation - how to generate this simple recurring revenue growth calculation in a the real, complex world.
+- [How to Calculate MRR How to Calculate MRR](https://www.maxio.com/saaspedia/how-to-calculate-mrr): Need to know how to calculate MRR in a term subscription business? It may be tricky as MRR is neither a FASB nor GAAP defined term.
+- [Onboarding On-boarding](https://www.maxio.com/saaspedia/on-boarding): On-boarding is the process of taking on a new client, and it looks different depending on the size of your business.
+- [Defining and Calculating CLTV in Your SaaS Business Defining and Calculating CLTV in Your SaaS Business](https://www.maxio.com/saaspedia/calculating-cltv): Here’s everything you need to know about calculating and using Calculating CLTV.
+- [How To Re-engage Unengaged Users Before They Cancel How To Re-engage Unengaged Users Before They Cancel](https://www.maxio.com/saaspedia/how-to-re-engage-unengaged-users-before-they-cancel): Once users churn, it's too late! Savvy subscription businesses identify when users become unengaged & proactively reach out to re-engage them. Learn how.
+- [Is Accounts Receivable like Oregon Trail? Is Accounts Receivable like Oregon Trail?](https://www.maxio.com/saaspedia/accounts-receivable-management): You probably didn’t know that Accounts Receivable management in a SaaS business is a lot like playing The Oregon Trail game. Allow us to explain.
+- [Deferred Revenue vs. Revenue Backlog](https://www.maxio.com/saaspedia/deferred-revenue-backlog-differences): While commonly confused with each other, deferred revenue and revenue backlog are distinctly different.
+- [What is a SaaS cohort analysis, and why is it important? What is a SaaS cohort analysis, and why is it important?](https://www.maxio.com/saaspedia/mrr-cohort): Performing a cohort analysis gives business leaders visibility into the health of their organization. Here’s how to run a SaaS cohort analysis in your business.
+- [CARR vs. ARR: How Future Contracts and Churn Impact Your Business CARR vs. ARR: How Future Contracts and Churn Impact Your Business](https://www.maxio.com/saaspedia/caar-vs-arr): CARR is a vital metric for SaaS companies to track. Here is everything you need to know about CARR vs ARR, plus how to track and improve CARR.
+- [Customer Lifetime Revenue Definition for a SaaS Business](https://www.maxio.com/saaspedia/customer-lifetime-revenue-definition-for-a-saas-business): Customer Lifetime Revenue is a simpler variant of the Customer Lifetime Value calculation. This metric is an estimate of the lifetime revenues for a customer.
+- [What is a normalized contract or subscription?](https://www.maxio.com/saaspedia/normalized-contracts): Normalization is the process of making disparate contracts similar in some way so they can be measured in context to each other or to other performance metrics.
+- [What are SaaS billing cycles?](https://www.maxio.com/saaspedia/billing-cycles): A billing cycle is the time between two invoice statement closing dates. It starts when you first bill a client and ends once the next bill is issued.
+- [What is Captive Product Pricing: Definition and Examples](https://www.maxio.com/saaspedia/what-is-captive-product-pricing-definition-and-examples): With captive product pricing, SaaS companies can upsell and solve for multiple use cases. Here’s what you need to know about this effective SaaS pricing model.
+- [What is Total Contract Value (TCV) in SaaS?](https://www.maxio.com/saaspedia/saas-total-contract-value): The Total Contract Value (TCV) metric summarizes the contractual value of fully executed term contracts.
+- [What are Renewal Bookings in a SaaS business?](https://www.maxio.com/saaspedia/renewal-bookings): Renewal Bookings typically refers to the portion of bookings attributed to existing contracts.
+- [What is MRR Churn? Formula, Benchmarking, and Importance in SaaS](https://www.maxio.com/saaspedia/mrr-churn): MRR churn and MRR churn rate are important metrics for SaaS companies. Here is what you need to know about these KPIs.
+- [What is MRR Renewal Rate?](https://www.maxio.com/saaspedia/mrr-renewal-rate): Renewal Rate is measure of retention, expressed as a percentage.
+- [CAC Payback: Why It’s Important and How to Calculate It](https://www.maxio.com/saaspedia/cac-payback): The CAC payback period is a critical metric for SaaS companies. It can help identify overspending, pricing issues, and overall business viability.
+- [What is new bookings in a SaaS business?](https://www.maxio.com/saaspedia/saas-bookings): New Bookings typically refers to the portion of bookings attributed to new customers, or more specifically new contracts with new or existing customers.
+- [What are the components that make up ARR?](https://www.maxio.com/saaspedia/arr-components): For most businesses, what is important about ARR is the growth momentum for the typical components of their Annual Recurring Revenue.
+- [What is MRR Churn? Formula, Benchmarking, and Importance in SaaS](https://www.maxio.com/saaspedia/retention-rate-vs-churn-rate): MRR churn and MRR churn rate are important metrics for SaaS companies. Here is what you need to know about these KPIs.
+- [CMRR or Committed Monthly Recurring Revenue](https://www.maxio.com/saaspedia/cmrr-committed-monthly-recurring-revenue): CMRR or Committed Monthly Recurring Revenue is the value of the recurring portion of subscription revenue.
+- [How to calculate logo (customer) churn](https://www.maxio.com/saaspedia/logo-churn): Logo churn, or customer churn, is a very important metric to understand the heath of a SaaS or subscription businesses.
+- [Essential Finance Concepts for Subscription Businesses](https://www.maxio.com/saaspedia/finance-for-entrepreneurs): Passionate and confident executives solvmarket problems efficiently. Manage cash flow, balance books, and seek growth through venture capital and acquisitions.
+- [Total Bookings Definition for SaaS](https://www.maxio.com/saaspedia/total-bookings): Total Bookings is the value of all transactions in a specified period of time, including all subscription and non-subscription (one-time) transactions.
+- [Life Cycle Renewal Rate](https://www.maxio.com/saaspedia/life-cycle-renewal-rate): The Life Cycle Renewal Rate Curve is the plot of the renewal rates throughout the customer contract life cycle for a like group of contracts.
+- [Contracted Monthly Recurring Revenue](https://www.maxio.com/saaspedia/contracted-monthly-recurring-revenue): Contracted Monthly Recurring Revenue (MRR) is the value of contracted recurring portion of subscription revenue. It's a close cousin of Committed MRR.
+- [Cash Flow Projections and Forecasting in Subscription Businesses](https://www.maxio.com/saaspedia/cash-flow-forecasting): To generate a cash flow forecast in a subscription business such as SaaS, you project three different sources of cash. Read this article for more.
+- [How to Calculate Annual Recurring Revenue (ARR) + Growth Strategies](https://www.maxio.com/saaspedia/how-to-calculate-annual-recurring-revenue-arr): Check out our easy-to-understand guide on ARR calculation, including how it’s calculated and how you can increase your ARR.
+- [What is MRR?](https://www.maxio.com/saaspedia/what-is-mrr): MRR is an acronym for Monthly Recurring Revenue. A primary purpose of MRR is to permit performance reporting across dissimilar subscriptions terms.
+- [What is CLTV? Definitions, Examples, and Benchmarks What is CLTV? Definitions, Examples, and Benchmarks](https://www.maxio.com/saaspedia/ltv-or-customer-lifetime-value-in-a-saas-business): What is CLTV? And what does it reveal about the health of your SaaS business? Here’s everything you need to know about this key SaaS metric.
+- [What is Unbilled Revenue and How to Calculate It](https://www.maxio.com/saaspedia/unbilled-ar): Unbilled AR (accrued revenue) is an essential element and concept of revenue recognition for subscription businesses.
+- [Customer Revenue Definition for SaaS](https://www.maxio.com/saaspedia/customer-revenue): Customer Revenue is the revenue associated with the customer or customer contract.
+- [Ultimate Guide: 9 Most Common Revenue Forecast Models](https://www.maxio.com/saaspedia/most-common-revenue-forecast-models): Using the right revenue forecast model is key to accurate revenue forecasting. Here are nine of the top forecasting models that companies use today.
+- [How to Calculate Annual Recurring Revenue (ARR) + Growth Strategies](https://www.maxio.com/saaspedia/arr-calculation): Check out our easy-to-understand guide on ARR calculation, including how it’s calculated and how you can increase your ARR.
+- [Revenue Churn Definition](https://www.maxio.com/saaspedia/revenue-churn): Revenue Churn is a measure of lost revenue, usually expressed as a whole number, but sometimes as the actual lost revenue in terms of ARR or MRR.
+- [What is net dollar retention, and how can you improve yours?](https://www.maxio.com/saaspedia/net-dollar-retention): For companies that want to generate predictable revenue, increase their CLTV, and raise their valuation, there’s no better benchmark than net dollar retention.
+- [Revenue Backlog Defined](https://www.maxio.com/saaspedia/revenue-backlog): Revenue backlog is the value of contracted revenue that has yet to be recognized in your SaaS or subscription agreement.
+- [Understanding and Calculating the SaaS Quick Ratio](https://www.maxio.com/saaspedia/saas-quick-ratio): To keep a close eye on growth vs retention, SaaS executives track a figure called SaaS quick ratio, which can easily summarize the health of an organization.
+- [What are New Bookings in SaaS & How to Calculate Them](https://www.maxio.com/saaspedia/new-bookings): New Bookings typically refers to the portion of bookings attributed to new customers, or more specifically new contracts with new or existing customers.
+- [Calculating Churn in a SaaS Business](https://www.maxio.com/saaspedia/calculating-churn-in-a-saas-business): There are multiple ways to calculate SaaS churn because pinning down an accurate churn metric can be complicated.
+- [Annual Recurring Revenue (ARR): Growth Metrics for SaaS](https://www.maxio.com/saaspedia/arr): Check out our easy-to-understand guide on ARR calculation, including how it’s calculated and how you can increase your ARR.
+- [How to Calculate and Use Revenue Projections](https://www.maxio.com/saaspedia/revenue-projections): Revenue forecasting uses information(such as past performance data) to calculate revenue projections that give you insight and help you make informed decisions.
+- [Customer Acquisition Cost (CAC): Everything You Need to Know](https://www.maxio.com/saaspedia/cac-customer-acquisition-cost): Customer Acquisition Cost (CAC) is the cost of acquiring a new customer in your business. It's most commonly used in SaaS businesses.
+- [What is SaaS Renewal Rate? What is SaaS Renewal Rate?](https://www.maxio.com/saaspedia/saas-renewal-rate): SaaS Renewal Rate can mean different things to different people. In this guide, we define SaaS renewal rate and provide several examples.
+- [Gross retention vs net retention: Definition and differences](https://www.maxio.com/saaspedia/gross-retention-vs-net-retention): Gross retention vs Net retention. What’s the difference? In this article, we’ll show you how these key SaaS metrics can help you drive efficient revenue growth.
+- [What is Customer Churn?](https://www.maxio.com/saaspedia/what-is-churn): Customer churn is one of the most important metrics in SaaS. Here’s everything you need to know about it, including examples, definitions, and benchmarks.
+- [Ultimate Guide to Funding SaaS: Financing, Stages, Prep, & Options Ultimate Guide to Funding SaaS: Financing, Stages, Prep, & Options](https://www.maxio.com/saaspedia/saas-financing-guide): Funding SaaS companies is one of the most common things new startup founders get wrong. Here’s everything you need to know to get (and stay) funded.
+- [What is MRR? Calculate & Analyze MRR Data](https://www.maxio.com/saaspedia/monthly-recurring-revenue-defined-for-a-saas-business): Monthly Recurring Revenue (MRR) is the monthly value of the recurring elements of your contract, typically excluding one-time and variable fees.
+- [What is Deferred Revenue in SaaS?](https://www.maxio.com/saaspedia/deferred-revenue): Deferred revenue is equal to the aggregated value of invoices to date over the recognizable revenue to date calculated by customer contract.
+- [12 Key Financial Metrics for SaaS Companies](https://www.maxio.com/saaspedia/key-financial-metrics-saas-companies): To understand the health of a SaaS company, CEOs must monitor a range of SaaS business metrics. These 12 metrics pinpoint areas of opportunity as they arise.
+- [SaaS Subscription Models Defined](https://www.maxio.com/saaspedia/saas-subscription-models): Explore various SaaS subscription models that allow companies to invoice clients based on customer needs and the product/service being delivered.
