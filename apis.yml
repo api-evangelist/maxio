@@ -61,6 +61,16 @@ apis:
         url: https://docs.maxio.com/hc/en-us/articles/24294819360525-Advanced-Billing-API-Keys
 
 common:
+  - type: Sandbox
+    url: https://www.maxio.com/sandbox
+  - type: Security
+    url: https://www.maxio.com/security
+  - type: StatusPage
+    url: https://maxio.statuspage.io/
+  - type: PrivacyPolicy
+    url: https://www.maxio.com/privacy-policy
+  - type: OpenIDConnect
+    url: https://www.maxio.com/.well-known/oauth-authorization-server
   - type: TrustCenter
     url: security/maxio-trust-center.yml
   - type: DomainSecurity
