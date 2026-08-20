@@ -34,6 +34,13 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/maxio.png
 tags:
   - Billing
+  - Subscription
+  - Recurring Billing
+  - Revenue Recognition
+  - SaaS Metrics
+  - Payments
+tags_raw:
+  - Billing
   - Subscriptions
   - Recurring Billing
   - Revenue Recognition
@@ -56,6 +63,12 @@ apis:
     humanURL: https://developers.maxio.com/
     baseURL: https://{subdomain}.chargify.com
     tags:
+      - Billing
+      - Subscription
+      - Invoices
+      - Customers
+      - Product
+    tags_raw:
       - Billing
       - Subscriptions
       - Invoices
