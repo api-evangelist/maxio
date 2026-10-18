@@ -40,5 +40,5 @@
     - connectors/applications/maxio-saasoptics
     vendor_link: https://www.maxio.com/
     builder: Fivetran
-  status: pending-partner-spec
+  status: not-a-workflow
   arazzo: null
