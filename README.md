@@ -1,4 +1,4 @@
-# Maxio (maxio)\n\nAPI and integration profile for Maxio.
+# Maxio
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -63,3 +63,92 @@
 >
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
+
+Maxio is a SaaS billing and financial operations platform formed from the merger of Chargify and SaaSOptics, providing subscription management, recurring billing, revenue recognition, and SaaS metrics for B2B software companies. Maxio Advanced Billing (formerly Chargify) exposes a REST API for managing customers, subscriptions, products, components, invoices, and events. Authentication uses HTTP Basic auth with a per-site API key as the username.
+
+**Areas:** Billing · Subscription · Recurring Billing · Revenue Recognition · SaaS Metrics · Payments
+
+## Maxio on APIs.io
+
+Everything profiled for Maxio is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/maxio/](https://apis.io/providers/maxio/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Maxio Advanced Billing API](https://apis.io/apis/maxio/advanced-billing-api/) — REST API for managing the full subscription lifecycle in Maxio Advanced Billing (formerly Chargify): customers, products, components, subscriptions,…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Maxio Domain Security](https://apis.io/security/maxio/maxio-domain-security/)
+- [Maxio Trust Center](https://apis.io/security/maxio/maxio-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.maxio.com)
+- [Documentation](https://developers.maxio.com/)
+- [Pricing](https://www.maxio.com/pricing)
+- [Blog](https://www.maxio.com/blog)
+- [Security](https://www.maxio.com/security)
+- [Privacy policy](https://www.maxio.com/privacy-policy)
+- [GitHub](https://github.com/maxio-com)
+- [Status](https://maxio.statuspage.io/)
+
+## API Evangelist rating
+
+**Kin Score 24.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 28.9 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 42.1 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.8** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/maxio/](https://apis.io/providers/maxio/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Maxio: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/maxio/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
